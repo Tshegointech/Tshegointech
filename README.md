@@ -24,27 +24,19 @@ I do not build toy models on clean datasets. I build systems that understand how
 
 ```text
 🏆  1st Place · AFAS Data Science Hackathon 2026 — ML classifier on astronomical data
-🏦  20-Project SA Banking Fraud Detection Series — Projects 1–4 complete, Masters-level
+🏦  SA Banking Fraud Detection Series — Projects 1–4 complete
 🎙️  Fundraising & Sponsorship · Deep Learning IndabaX SA 2026 · UKZN · 47-country network
 🔭  Mentor · BRICS Astronomy Working Group
 📐  Tutor · NMAT623 Advanced Calculus · Sol Plaatje University
-🤖  Running a local Ollama + Playwright automation stack on Ubuntu 24.04
 ```
 
 ---
 
-## 🔨 Currently Shipping
+## 🔨 Currently Active
 
-| | Project | Domain | ETA |
-|--|---------|--------|-----|
-| 🚧 | **Project 05 / 20** — PayShap Real-Time Fraud Detection | Fintech · Streaming | Active |
-| 📋 | Deep Learning IndabaX SA 2026 — Sponsorship infrastructure | Community · AI | Jul 2026 |
-| 🤖 | NATIS automation Telegram bot · Playwright + asyncio | Automation | Ongoing |
-
-**Fraud Detection Series Progress**
-```
-████████░░░░░░░░░░░░  4 / 20 complete  [Projects 01–04 ✅ | 05 🚧 | 06–20 ⬜]
-```
+| | Project | Domain |
+|--|---------|--------|
+| 📋 | Deep Learning IndabaX SA 2026 — Sponsorship infrastructure | Community · AI |
 
 ---
 
@@ -91,70 +83,12 @@ I do not build toy models on clean datasets. I build systems that understand how
 
 <br/>
 
-| # | Repository | Assessed Level | Core Stack | Signature Contribution |
-|:--:|-----------|:--------------:|-----------|----------------------|
-| 01 | [sa-bank-fraud-detection](https://github.com/Tshegointech/sa-bank-fraud-detection) | Undergraduate | Python · Jupyter | ULB baseline · SMOTE · SA-contextualised EDA |
-| 02 | [ieee-fraud-detection](https://github.com/Tshegointech/ieee-fraud-detection) | Honours | Python · TeX · REST API | Graph fraud ring detection · XGBoost · REST scoring endpoint |
-| 03 | [fraud-detection-pipeline](https://github.com/Tshegointech/fraud-detection-pipeline) | Undergraduate–Honours | PostgreSQL · R · Python | Synthetic SA SIM-swap dataset · full 3-layer pipeline |
-| 04 | [Adversarial-fraud-detection-with-concept-drift](https://github.com/Tshegointech/Adversarial-fraud-detection-with-concept-drift) | **Masters** | Python · R · PostgreSQL | SANDSTORM · 2M records · 3 fraud generations · PSI drift · Wilcoxon/chi-square |
-| 05 | `payshap-realtime-fraud-detection` *(in build)* | Masters | Python · Kafka · PostgreSQL | PayShap instant-settlement fraud · real-time scoring pipeline |
-| 06–20 | *Designing...* | — | — | — |
-
-</details>
-
----
-
-<details>
-<summary><b>💻 &nbsp;Software Engineering</b></summary>
-
-<br/>
-
-| Repository | Description | Stack |
-|-----------|-------------|-------|
-| `oslp` *(coming soon)* | **Online Student Learning Platform** — full-stack e-learning system with microservices architecture, event-driven messaging, and container orchestration. Built for the SPU Software Engineering oral defence. | React · Node.js · PostgreSQL · MongoDB · Kafka · Kubernetes |
-
-</details>
-
----
-
-<details>
-<summary><b>🌐 &nbsp;Networking · Security Engineering</b></summary>
-
-<br/>
-
-| Repository | Description | Stack |
-|-----------|-------------|-------|
-| *Coming soon* | **Network protocol implementations** — OSI/TCP-IP stack exercises, subnetting tools, VLAN and STP simulations | Python · Linux · Wireshark |
-| *Coming soon* | **Security Engineering case studies** — threat modelling and dependability analysis based on Sommerville's framework (MedTrack, TaxFlow, Mentcare scenarios) | Python · LaTeX |
-| *Coming soon* | **Penetration testing lab** — enumeration, exploitation, and post-exploitation exercises in a controlled environment | Python · Bash · Kali Linux |
-
-</details>
-
----
-
-<details>
-<summary><b>🔭 &nbsp;Astronomy · Applied ML</b></summary>
-
-<br/>
-
-| Repository | Description | Stack |
-|-----------|-------------|-------|
-| *Coming soon* | **AFAS Hackathon 2026 — 1st Place** · ML classifier on astronomical survey data · feature engineering on photometric and spectroscopic signals | Python · scikit-learn · Jupyter |
-| *Coming soon* | **BRICS Astronomy Working Group** — mentorship projects on astronomical data pipelines and ML-assisted object classification | Python · Astropy |
-
-</details>
-
----
-
-<details>
-<summary><b>🤖 &nbsp;Automation · AI Tooling</b></summary>
-
-<br/>
-
-| Repository | Description | Stack |
-|-----------|-------------|-------|
-| *Coming soon* | **NATIS Booking Bot** — Telegram bot wrapping a Playwright browser automation script for vehicle booking · 8-state ConversationHandler · inline keyboards · asyncio countdown auto-submit timer | Python · Playwright · python-telegram-bot |
-| *Coming soon* | **Local AI Stack** — Ollama-backed automation pipelines · task routing · local LLM inference on Ubuntu 24.04 (HP ProBook, Ryzen 5, 16GB RAM) | Python · Ollama · Bash |
+| # | Repository | Core Stack | Signature Contribution |
+|:--:|-----------|-----------|----------------------|
+| 01 | [sa-bank-fraud-detection](https://github.com/Tshegointech/sa-bank-fraud-detection) | Python · Jupyter | ULB baseline · SMOTE · SA-contextualised EDA |
+| 02 | [ieee-fraud-detection](https://github.com/Tshegointech/ieee-fraud-detection) | Python · TeX · REST API | Graph fraud ring detection · XGBoost · REST scoring endpoint |
+| 03 | [fraud-detection-pipeline](https://github.com/Tshegointech/fraud-detection-pipeline) | PostgreSQL · R · Python | Synthetic SA SIM-swap dataset · full 3-layer pipeline |
+| 04 | [Adversarial-fraud-detection-with-concept-drift](https://github.com/Tshegointech/Adversarial-fraud-detection-with-concept-drift) | Python · R · PostgreSQL | SANDSTORM · 2M records · 3 fraud generations · PSI drift · Wilcoxon/chi-square |
 
 </details>
 
@@ -181,7 +115,7 @@ I do not build toy models on clean datasets. I build systems that understand how
 | | |
 |--|--|
 | 🥇 | 1st Place · AFAS Data Science Hackathon 2026 · ML on astronomical data |
-| 📊 | SANDSTORM (Project 04) · adversarial concept drift on 2M synthetic SA banking records · assessed at Masters level |
+| 📊 | SANDSTORM (Project 04) · adversarial concept drift on 2M synthetic SA banking records |
 | 🌍 | Deep Learning IndabaX SA 2026 · Fundraising Committee · 70+ corporate sponsorship contacts across SA fintech, telecoms, and AI sector |
 | 🔭 | BRICS Astronomy Working Group mentor · cross-continental research network |
 | 📐 | Advanced Calculus tutor · SPU · undergraduate cohort |
